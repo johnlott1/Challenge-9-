@@ -1,14 +1,23 @@
 {
-    "name": "static-site",
+    "name": "challenge-9-",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+  
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/johnlott1/Challenge-9-"
     },
     "author": "",
     "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/johnlott1/Challenge-9-/issues"
+    },
+    "homepage": "https://github.com/johnlott1/Challenge-9-/blob/main/README.md",
     "dependencies": {
-        "inquirer": "^8.2.4"
+      "inquirer": "^8.1.1"
     }
-}
+  }
